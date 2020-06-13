@@ -16,7 +16,7 @@ Beispiel:
 >
 > könnten Sie mir bitte sagen, wo das Kommunikationsseminar stattfinden wird, welches in der letzten Rundmail angekündigt wurde? Auf http://webseite-der-firma.de/veranstaltungen/ konnte ich zwar den Termin jedoch nicht den Ort finden.
 >
-> Mit freundlichen Grüßen
+> Mit freundlichen Grüßen  
 > Erika Mustermann
 
 Beachte: vermeide den Satz
