@@ -3,22 +3,32 @@
 Hast du schonmal 2 h für eine einfache E-Mail gebraucht, weil du darüber nachgedacht hast, ob du besser *ich benötige* statt *ich brauche* schreibst oder ob du wirklich *anbei* schreibst, obwohl man das eigentlich nicht mehr tun sollte? Das muss nicht sein. Hier findest du standardisierte Lösungen für alltägliche Probleme der schriftlichen Kommunikation.
 
 ## Entwurfsmuster
+Jede E-Mail muss drei Fragen beantworten:
+1. An wen ist die E-Mail gerichtet?
+2. Warum wird diese E-Mail geschrieben?
+3. Wer schreibt diese E-Mail?
+Klingt eigentlich ganz einfach - trotzdem ist es manchmal gar nicht so leicht, die Antworten auf diese Fragen in einer schlüssigen E-Mail zu formulieren.
+Im Folgenden stellen wir dir zusammenfassend einige Leitfäden zu den einzelnen Fragen vor und liefern dir Bausteine, mit denen du deine E-Mails einfach schreiben kannst.
 
-### Anrede
+
+### 1. An wen ist die E-Mail gerichtet? - Die Anrede
 E-Mails beginnen für gewöhnlich mit einer Anrede. Hierbei kommt es vor allem darauf an, in welchem Verhältnis Du zum Empfänger stehst. Verschiedene Anreden implizieren verschiedene Maße an Förmlichkeit und Höflichkeit.
-Die folgen Anreden sind von *sehr höflich* bis *freundschaftlich* absteigend sortiert:
+Die folgen Anreden sind von *höflich* bis *freundschaftlich* absteigend sortiert:
 
-* *Sehr geehrte Frau X / Herr Y* ist die Anrede für förmliche E-Mails. Bist Du dir unsicher, ist das für E-mails an unbekannte und persönlich weniger bekannte Personen eine sichere Wahl
+* *Sehr geehrte Frau X / Herr Y* ist die Anrede für förmliche E-Mails. Bist Du dir unsicher, ist das für E-Mails an unbekannte und persönlich weniger bekannte Personen eine sichere Wahl
 * *Hallo X* ist ein ganz neutrale Anrede. Hierbei solltest Du den Empfänger schon etwas besser kennen. In hierarchischen Beziehungen z.B. mit Professoren oder Deinem Chef solltest Du diese Anrede eher meiden. Beachte: ein Hallo ohne einen Namen wirkt schnell eilig und unhöflich
-* *Hey*, *Moin*, *Grüß Dich*, was auch immer sind Anreden der umgangssprachlichen, freundschaftlichen Kommunikation. In förmlichen E-Mails natürlich ein No-Go. Wenn Du eine E-Mail an einen Freund oder ein Familienmitglied schreibt, kannst du diese oder ähnliche Anreden natürlich verwenden.
+* *Hey*, *Moin*, *Liebe X*, was auch immer sind Anreden der umgangssprachlichen, freundschaftlichen Kommunikation. In förmlichen E-Mails natürlich ein No-Go. Wenn Du eine E-Mail an einen Freund oder ein Familienmitglied schreibt, kannst du diese oder ähnliche Anreden natürlich verwenden.
 
 Hier noch ein paar Tipps für die richtige Anrede:
 
+* Zwischen Anrede und restlicher Mail sollte eine Leerzeile gelassen werden
+* nach der Anrede folgt ein Komma, danach wird klein weitergeschrieben
 * Ist Dir der Empfänger mit Namen bekannt, solltest Du ihn auch in der Anrede angeben. Falls unbekannt, kannst du das klassische "Sehr geehrte Damen und Herren " verwenden
-* akademische Grade sind stets in der richtigen Reihenfolge anzugeben
+* akademische Grade sind in der richtigen Reihenfolge anzugeben
 * bei der Anrede einer Gruppe ist stets auf Genderneutralität zu achten
 * adressierst Du mit Deiner E-Mail mehrere Personen, solltest Du im beruflichen und förmlichen Kontext die Adressaten nach ihrem beruflichen Rang auflisten. Ansonsten gilt: Damen vor Herren, Ältere vor Jüngeren
-* In Deiner gesamte E-Mail solltest Du darauf achten, das Personalpronomen des Empfängers (Du/Dich/Dir/Sie/Sie/Ihnen) und die entsprechenden Possesivpronomen (Deine/Ihre) groß zu schreiben
+* In Deiner gesamte E-Mail solltest Du darauf achten, die Personalpronomen des Empfängers (Du/Dich/Dir/Sie/Sie/Ihnen) und die entsprechenden Possesivpronomen (Deine/Ihre) groß zu schreiben
+* Du kannst im Laufe einer E-Mailkommunikation die Anreden den Anreden des Empfängers anpassen. Wenn du das Gefühl hast, ihr bewegt euch auf einer Augenhöhe und die Konversation erlaubt es, kannst du von förmlicheren Anreden zu neutralen Anreden wechseln
 
 Vermeiden solltest Du:
 
@@ -26,7 +36,11 @@ Vermeiden solltest Du:
 * *Werte Frau X / Herr Y* klingt hochgestochen und mittelalterlich
 * gar keine Anrede - so viel Zeit muss selbst für die kürzesten E-Mails sein!
 
-### Anfrage
+### 2. Warum wird diese E-Mail geschrieben?
+
+Das kann natürlich viele Gründe haben. Die Gängigsten haben wir hier mal aufgelistet.
+
+#### 2.1 Die Anfrage
 
 Problem: jemand hat Informationen, die du brauchst, aber nicht weißt. Wahrscheinlich hast du schon alle Webseiten durchsucht und bist nicht fündig geworden – wenn nicht, dann hol das sofort nach! 
 
@@ -47,7 +61,7 @@ Beachte: vermeide den Satz
 
 Jeder würde sich freuen, wenn andere schneller für einen arbeiten. Leider machen das die wenigsten und dieser Satz ruft einem das schnell ins Gedächtnis. Daher wird deine Anfrage als letztes bearbeitet werden – einfach um zu unterstreichen, dass die Welt auch für dich eine ungerechte ist.
 
-## Todo
+#### Todo
 
 - [ ] Dienstleistung
 - [ ] Terminabsprache
@@ -56,3 +70,28 @@ Jeder würde sich freuen, wenn andere schneller für einen arbeiten. Leider mach
 - [ ] Nachfrage
 - [ ] Mitteilung
 
+### 3. Wer schreibt diese E-Mail?
+
+Hierfür ist erneut dein Verhältnis zum Empfänger notwendig. Danach entscheidet sich, wie viele Informationen über deine Person in der E-Mail vorkommen müssen. Wichtig ist - der Empfänger muss dich klar einordnen können. Bist du gut mit dem Empfänger bekannt, ist das natürlich überflüssig. Im Zweifel gilt aber: Gibst du die Information über deine Person und deinen Rahmen gleich zu beginn, kann das die Kommunikation erleichtern und vereinfachen. Natürlich solltest du den Empfänger aber auch nicht mit unnützem Wissen über dich zuspammen.
+
+Hier mal einige Beispiele:
+
+* Schreibst du einem Dozenten eine Mail, so solltest du Bezug auf diejenige Veranstaltung nehmen, weswegen du Kontakt aufnimmst. Dozenten haben oft viele Veranstaltungen und unzählige Studierende, weswegen du mit einer Einordnung die gesamte Kommunikation erheblich erleichterst.
+
+Etwa so: 
+
+> Sehr geehrter Professor X,
+>
+> derzeit besuche ich Ihre Vorlesung "Einführung in die Geschichte der Zauberei" im Rahmen meines Moduls "Zauberkunde I". Im Rahmen meiner Prüfungsvorbereitung ergaben sich mir einige Fragen...
+
+* Schreibst du an Versicherungen, Ämter, Büros, Prüfungsbüros etc. kann es hiflreich sein, deine Identifikationsnummer oder Vorgangsnummer (z.B. Rentenversicherungsnummer, Mitarbeiternummer, Kundennummer, Matrikelnummer,...) direkt mit anzugeben. Das wird dem Empfänger bei deiner Einordnung sehr entgegenkommen. Falls du dir unsicher bist, wo du diese Information unterbringen kannst - du kannst sie wunderbar als ein Teil deines Absenders integrieren oder an den Beginn deiner E-Mail setzen:
+
+> ...
+> ...
+> Mit freundlichen Grüßen
+> Erika Mustermann
+> Kundennummer 05825263-E
+
+> Sehr geehrte Frau X,
+>
+> im Bezug auf meiner Rufnummermitnahme (Vorgangsnummer: 630152749)...
