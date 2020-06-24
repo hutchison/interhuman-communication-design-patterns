@@ -12,27 +12,27 @@ Im Folgenden stellen wir dir zusammenfassend einige Leitfäden zu den einzelnen 
 
 
 ### 1. An wen ist die E-Mail gerichtet? - Die Anrede
-E-Mails beginnen für gewöhnlich mit einer Anrede. Hierbei kommt es vor allem darauf an, in welchem Verhältnis Du zum Empfänger stehst. Verschiedene Anreden implizieren verschiedene Maße an Förmlichkeit und Höflichkeit.
+E-Mails beginnen für gewöhnlich mit einer Anrede. Hierbei kommt es vor allem darauf an, in welchem Verhältnis du zum Empfänger stehst. Verschiedene Anreden implizieren verschiedene Maße an Förmlichkeit und Höflichkeit.
 Die folgen Anreden sind von *höflich* bis *freundschaftlich* absteigend sortiert:
 
-* *Sehr geehrte Frau X / Herr Y* ist die Anrede für förmliche E-Mails. Bist Du dir unsicher, ist das für E-Mails an unbekannte und persönlich weniger bekannte Personen eine sichere Wahl
-* *Hallo X* ist ein ganz neutrale Anrede. Hierbei solltest Du den Empfänger schon etwas besser kennen. In hierarchischen Beziehungen z.B. mit Professoren oder Deinem Chef solltest Du diese Anrede eher meiden. Beachte: ein Hallo ohne einen Namen wirkt schnell eilig und unhöflich
-* *Hey*, *Moin*, *Liebe X*, was auch immer sind Anreden der umgangssprachlichen, freundschaftlichen Kommunikation. In förmlichen E-Mails natürlich ein No-Go. Wenn Du eine E-Mail an einen Freund oder ein Familienmitglied schreibt, kannst du diese oder ähnliche Anreden natürlich verwenden.
+* *Sehr geehrte Frau X / Herr Y* ist die Anrede für förmliche E-Mails. Bist du dir unsicher, ist das für E-Mails an unbekannte und persönlich weniger bekannte Personen eine sichere Wahl
+* *Hallo X* ist ein ganz neutrale Anrede. Hierbei solltest du den Empfänger schon etwas besser kennen. In hierarchischen Beziehungen z.B. mit Professoren oder deinem Chef solltest du diese Anrede eher meiden. Beachte: ein Hallo ohne einen Namen wirkt schnell eilig und unhöflich
+* *Hey*, *Moin*, *Liebe X*, was auch immer sind Anreden der umgangssprachlichen, freundschaftlichen Kommunikation. In förmlichen E-Mails natürlich ein No-Go. Wenn du eine E-Mail an einen Freund oder ein Familienmitglied schreibt, kannst du diese oder ähnliche Anreden natürlich verwenden.
 
 Hier noch ein paar Tipps für die richtige Anrede:
 
 * Zwischen Anrede und restlicher Mail sollte eine Leerzeile gelassen werden
 * nach der Anrede folgt ein Komma, danach wird klein weitergeschrieben
-* Ist Dir der Empfänger mit Namen bekannt, solltest Du ihn auch in der Anrede angeben. Falls unbekannt, kannst du das klassische "Sehr geehrte Damen und Herren " verwenden
+* Ist Dir der Empfänger mit Namen bekannt, solltest du ihn auch in der Anrede angeben. Falls unbekannt, kannst du das klassische "Sehr geehrte Damen und Herren " verwenden
 * akademische Grade sind in der richtigen Reihenfolge anzugeben
 * bei der Anrede einer Gruppe ist stets auf Genderneutralität zu achten
-* adressierst Du mit Deiner E-Mail mehrere Personen, solltest Du im beruflichen und förmlichen Kontext die Adressaten nach ihrem beruflichen Rang auflisten. Ansonsten gilt: Damen vor Herren, Ältere vor Jüngeren
-* In Deiner gesamte E-Mail solltest Du darauf achten, die Personalpronomen des Empfängers (Du/Dich/Dir/Sie/Sie/Ihnen) und die entsprechenden Possesivpronomen (Deine/Ihre) groß zu schreiben
-* Du kannst im Laufe einer E-Mailkommunikation die Anreden den Anreden des Empfängers anpassen. Wenn du das Gefühl hast, ihr bewegt euch auf einer Augenhöhe und die Konversation erlaubt es, kannst du von förmlicheren Anreden zu neutralen Anreden wechseln
+* adressierst du mit deiner E-Mail mehrere Personen, solltest du im beruflichen und förmlichen Kontext die Adressaten nach ihrem beruflichen Rang auflisten. Ansonsten gilt: Damen vor Herren, Ältere vor Jüngeren
+* In deiner gesamte E-Mail solltest du darauf achten, die Personalpronomen des Empfängers (du/Dich/Dir/Sie/Sie/Ihnen) und die entsprechenden Possesivpronomen (Deine/Ihre) groß zu schreiben
+* du kannst im Laufe einer E-Mailkommunikation die Anreden den Anreden des Empfängers anpassen. Wenn du das Gefühl hast, ihr bewegt euch auf einer Augenhöhe und die Konversation erlaubt es, kannst du von förmlicheren Anreden zu neutralen Anreden wechseln
 
-Vermeiden solltest Du:
+Vermeiden solltest du:
 
-* *Guten Morgen/Abend/Tag* wann Du Deine E-Mail geschrieben hast, ist i.d.R. irrelevant. Wahrscheinlich liest der Empfänger deine E-Mail auch nicht zur gleichen Tageszeit
+* *Guten Morgen/Abend/Tag* wann du deine E-Mail geschrieben hast, ist i.d.R. irrelevant. Wahrscheinlich liest der Empfänger deine E-Mail auch nicht zur gleichen Tageszeit
 * *Werte Frau X / Herr Y* klingt hochgestochen und mittelalterlich
 * gar keine Anrede - so viel Zeit muss selbst für die kürzesten E-Mails sein!
 
@@ -82,14 +82,14 @@ Etwa so:
 
 > Sehr geehrter Professor X,
 >
-> derzeit besuche ich Ihre Vorlesung "Einführung in die Geschichte der Zauberei" im Rahmen meines Moduls "Zauberkunde I". Im Rahmen meiner Prüfungsvorbereitung ergaben sich mir einige Fragen...
+> derzeit besuche ich Ihre Vorlesung "Einführung in die Geschichte der Zauberei" im Rahmen meines Moduls "Zauberkunde I". Während meiner Prüfungsvorbereitung ergaben sich mir einige Fragen...
 
 * Schreibst du an Versicherungen, Ämter, Büros, Prüfungsbüros etc. kann es hiflreich sein, deine Identifikationsnummer oder Vorgangsnummer (z.B. Rentenversicherungsnummer, Mitarbeiternummer, Kundennummer, Matrikelnummer,...) direkt mit anzugeben. Das wird dem Empfänger bei deiner Einordnung sehr entgegenkommen. Falls du dir unsicher bist, wo du diese Information unterbringen kannst - du kannst sie wunderbar als ein Teil deines Absenders integrieren oder an den Beginn deiner E-Mail setzen:
 
 > ...
 > ...
-> Mit freundlichen Grüßen
-> Erika Mustermann
+> Mit freundlichen Grüßen 
+> Erika Mustermann 
 > Kundennummer 05825263-E
 
 > Sehr geehrte Frau X,
